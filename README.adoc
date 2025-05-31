@@ -1,0 +1,36 @@
+//tag::vardef[]
+:gh-repo-owner: unblu
+:gh-repo-name: protodoc4j
+:project-name: ProtoDoc4j
+:branch: main
+:license: http://www.apache.org/licenses/LICENSE-2.0
+:license-name: Apache 2.0 License
+
+:git-repository: {gh-repo-owner}/{gh-repo-name}
+:homepage: https://{gh-repo-owner}.github.io/{gh-repo-name}/
+:issues: https://github.com/{git-repository}/issues
+//end::vardef[]
+
+//tag::header[]
+= {project-name}
+
+This library contains the java model representing the json output of the https://github.com/pseudomuto/protoc-gen-doc[protoc-gen-doc] tool.
+
+//end::header[]
+
+== Project Homepage
+
+Visit the link:{homepage}[project home page] to know more this project.
+
+//tag::contact-section[]
+== Get in touch
+
+Use the link:{issues}[{project-name} issue tracker] on GitHub.
+
+//end::contact-section[]
+
+//tag::license-section[]
+== License
+
+link:{license}[{license-name}]
+//end::license-section[]
